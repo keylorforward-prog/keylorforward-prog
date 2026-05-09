@@ -1,7 +1,8 @@
 <div align="center">
 
 <h2><em>"Code is the tool. The outcome is the goal."</em></h2>
-<p>Backend Development · System Optimization</p>
+<p>Backend Developer · System Optimization · API Architecture</p>
+<p>Designing and building reliable backend systems with clean architecture,<br/>secure APIs, and databases that scale — using the right tool for the right problem.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keylor%20Barrantes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keylor-barrantes-montero-21a1b4278/)
 [![GitHub](https://img.shields.io/badge/GitHub-keylorforward--prog-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keylorforward-prog)
@@ -89,6 +90,7 @@ const keylor = {
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keylor-barrantes-montero-21a1b4278/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keylorforward-prog)
+[![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@keybm1403)
 
 </div>
 
