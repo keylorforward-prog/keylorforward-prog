@@ -18,7 +18,7 @@ const keylor = {
   role:       "Computer Engineering Student",
   focus:      ["Backend Development", "System Optimization", "Software Architecture"],
   learning:   ["Cloud Infrastructure", "Distributed Systems", "API Design"],
-  funFact:    "I debug best at night ☕",
+  funFact:    "I once fixed a bug by reading the docs. Still don't know how that happened 📖",
 };
 ```
 
@@ -75,9 +75,11 @@ const keylor = {
 
 ## 🎯 Currently
 
-- 📚 Studying **Computer Engineering**
-- 🌱 Deepening knowledge in **system optimization & API architecture**
-- 👀 Open to **internships and collaboration opportunities**
+- 🎓 Pursuing a degree in **Computer Engineering**, focused on backend systems and software architecture
+- 🔭 Building full-stack applications using **React, Node.js, .NET and PostgreSQL**
+- 🧪 Practicing test-driven development with **Jest** and documenting APIs with **Swagger**
+- 📐 Deepening expertise in **system design, database optimization, and secure API development**
+- 🤝 Open to **internships, junior roles, and collaborative open-source projects**
 
 ---
 
