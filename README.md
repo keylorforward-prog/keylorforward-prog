@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=200&section=header&text=Keylor%20Barrantes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Backend%20%26%20System%20Optimization&descAlignY=58&descColor=8b949e" width="100%" alt="Header"/>
-
-</div>
-
-<div align="center">
+<h1>Keylor David Barrantes Montero</h1>
+<p><em>Computer Engineering Student · Backend Development · System Optimization</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keylor%20Barrantes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keylor-barrantes-montero-21a1b4278/)
 [![GitHub](https://img.shields.io/badge/GitHub-keylorforward--prog-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keylorforward-prog)
-[![Location](https://img.shields.io/badge/📍-Costa%20Rica-white?style=flat-square)](https://en.wikipedia.org/wiki/Costa_Rica)
-[![Organization](https://img.shields.io/badge/🏢-Forward%20Costa%20Rica-blue?style=flat-square)](https://github.com/keylorforward-prog)
 
 </div>
 
@@ -22,8 +17,6 @@ const keylor = {
   name:       "Keylor David Barrantes Montero",
   role:       "Computer Engineering Student",
   focus:      ["Backend Development", "System Optimization", "Software Architecture"],
-  location:   "Costa Rica 🇨🇷",
-  org:        "Forward Costa Rica (FWD)",
   learning:   ["Cloud Infrastructure", "Distributed Systems", "API Design"],
   funFact:    "I debug best at night ☕",
 };
@@ -63,38 +56,6 @@ const keylor = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 💰 [Dashboard Financiero](https://github.com/keylorforward-prog/Dashboard-Financiero)
-> Personal finance web app built with React. Manage income, expenses, and budgets with real-time charts and intelligent financial analytics.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-### 🗄️ [API Example — Db.Json](https://github.com/keylorforward-prog/ApiExampleDbJson)
-> RESTful API example using Node.js and db.json as a lightweight data layer. A clean reference for backend API patterns.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-### 🍦 [Helados](https://github.com/keylorforward-prog/Helados)
-> Web project for a local ice cream business — frontend design and product catalog.
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
----
-
-### 🤝 [Proyecto Grupal 2](https://github.com/keylorforward-prog/ProyectoGrupal2)
-> Collaborative team project built with JavaScript, focused on practical software engineering and team workflow.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -115,7 +76,6 @@ const keylor = {
 ## 🎯 Currently
 
 - 📚 Studying **Computer Engineering**
-- 🔧 Working on backend systems at **Forward Costa Rica (FWD)**
 - 🌱 Deepening knowledge in **system optimization & API architecture**
 - 👀 Open to **internships and collaboration opportunities**
 
