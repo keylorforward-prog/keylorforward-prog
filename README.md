@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Keylor David Barrantes Montero</h1>
-<p><em>Computer Engineering Student · Backend Development · System Optimization</em></p>
+<h2><em>"Code is the tool. The outcome is the goal."</em></h2>
+<p>Backend Development · System Optimization</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keylor%20Barrantes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keylor-barrantes-montero-21a1b4278/)
 [![GitHub](https://img.shields.io/badge/GitHub-keylorforward--prog-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keylorforward-prog)
@@ -15,7 +15,7 @@
 ```javascript
 const keylor = {
   name:       "Keylor David Barrantes Montero",
-  role:       "Computer Engineering Student",
+  role:       "Backend Developer & System Optimization",
   focus:      ["Backend Development", "System Optimization", "Software Architecture"],
   learning:   ["Cloud Infrastructure", "Distributed Systems", "API Design"],
   funFact:    "I once fixed a bug by reading the docs. Still don't know how that happened 📖",
